@@ -27,4 +27,4 @@ Employee Management System
 Enter your choice:
 ```
 
-A screenshot of the terminal output is stored in [screenshot.txt](screenshot.txt).
+The console output above is also saved in [screenshot.txt](screenshot.txt).
