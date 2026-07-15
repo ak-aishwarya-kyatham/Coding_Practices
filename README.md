@@ -18,3 +18,14 @@ py main.py
 - Delete employee
 - Sort employees by name
 - Filter employees by department
+
+## Technologies Used
+
+- Python 3
+- Standard library modules:
+  - os
+  - json
+  - re
+  - datetime
+  - dataclasses
+- VS Code / Windows terminal for running the app
