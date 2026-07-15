@@ -30,3 +30,25 @@ py main.py
   - dataclasses
 - VS Code / Windows terminal for running the app
 
+## Screenshots
+
+### 1. Add Employee
+![Add Employee](screenshots/1_add_employee.png)
+
+### 2. View All Employees
+![View All Employees](screenshots/2_view_employees.png)
+
+### 3. Search Employee by ID
+![Search Employee by ID](screenshots/3_search_employee.png)
+
+### 4. Update Employee
+![Update Employee](screenshots/4_update_employee.png)
+
+### 5. Delete Employee
+![Delete Employee](screenshots/5_delete_employee.png)
+
+### 6. Sort Employees by Name
+![Sort Employees by Name](screenshots/6_sort_employees.png)
+
+### 7. Filter Employees by Department
+![Filter Employees by Department](screenshots/7_filter_employees.png)
