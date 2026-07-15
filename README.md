@@ -32,9 +32,6 @@ py main.py
 
 ## Screenshots
 
-### Main Menu
-![Main Menu](screenshots/8_main_menu.png)
-
 ### 1. Add Employee
 ![Add Employee](screenshots/1_add_employee.png)
 
