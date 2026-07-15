@@ -1,0 +1,21 @@
+# .NET build outputs
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
