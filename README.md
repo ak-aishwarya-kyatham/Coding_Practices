@@ -47,3 +47,15 @@ Employee Management System
 ==============================
 Enter your choice:
 ```
+
+```text
+Employee added successfully.
+```
+
+```text
+No employees found.
+```
+
+```text
+Employee not found.
+```
